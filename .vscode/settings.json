@@ -1,0 +1,4 @@
+{
+    "python.terminal.useEnvFile": true,
+    "python.defaultInterpreterPath": "${workspaceFolder}\\llm-fundamentals-week4\\.venv\\Scripts\\python.exe"
+}

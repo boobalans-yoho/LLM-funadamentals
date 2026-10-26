@@ -1,0 +1,19 @@
+
+Classify each customer support ticket using the examples.
+
+Example 1:
+Ticket: My payment was deducted twice.
+Output: {"category":"Billing","priority":"High"}
+
+Example 2:
+Ticket: The application crashes whenever I open it.
+Output: {"category":"Technical","priority":"High"}
+
+Example 3:
+Ticket: I forgot my password and cannot log in.
+Output: {"category":"Account","priority":"Medium"}
+
+Now classify this ticket:
+Ticket: {ticket}
+
+Return only valid JSON with category and priority.

@@ -1,0 +1,12 @@
+Test,Prompt,Result,Rating
+Summarisation,Summarise in one sentence: A customer was charged twice and requests a refund.,A customer requests a refund for a duplicate charge.,Pending actual test
+Classification,"Classify this ticket as Billing, Technical or Account: My payment was deducted twice.",Billing,Pending actual test
+Extraction,"Extract JSON from: ""Arun has 2 years of Python experience."" Use keys name and years_experience.","{""name"": ""Arun"", ""years_experience"": 2}",Pending actual test
+Translation,"Translate into English: வணக்கம், எனக்கு உதவி வேண்டும்.","Hello, I need help.",Pending actual test
+Code generation,Write a Python function that adds two numbers.,"def add(a, b): return a + b",Pending actual test
+Knowledge cutoff,What happened in the most recent major technology event? Give the date and a source.,Record the actual model response and verify it using a source.,Pending actual test
+Hallucination,Summarise the fictional paper 'Quantum Support Networks by Dr. Xylor Example (2099)'.,Check whether the model invents details.,Pending actual test
+Hallucination safeguard,Summarise the fictional paper 'Quantum Support Networks by Dr. Xylor Example (2099)'. Say I don't know if unsure.,Check whether the model admits uncertainty.,Pending actual test
+Context length,"In a long text, place this fact in the middle: The project code is BLUE-742. Ask the model for the code.",Expected answer: BLUE-742,Pending actual test
+Arithmetic,A company processes 125 tickets daily for 24 days. How many tickets does it process?,3000,Pending actual test
+Logic,All engineers are employees. Ravi is an engineer. Is Ravi an employee?,Yes,Pending actual test

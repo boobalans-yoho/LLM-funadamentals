@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Arun Kumar is a Python developer with 2 years of experience in Python, FastAPI and MongoDB. He has a BSc degree.",
+    "expected": {
+      "candidate_name": "Arun Kumar",
+      "skills": ["Python", "FastAPI", "MongoDB"],
+      "years_of_experience": 2,
+      "education": ["BSc"]
+    }
+  },
+  {
+    "text": "Priya Sharma has 3 years of experience in data analysis using Python, SQL and Power BI. She holds an MSc degree.",
+    "expected": {
+      "candidate_name": "Priya Sharma",
+      "skills": ["Python", "SQL", "Power BI"],
+      "years_of_experience": 3,
+      "education": ["MSc"]
+    }
+  },
+  {
+    "text": "Ravi Kumar is a frontend developer skilled in HTML, CSS and JavaScript with 1 year of experience.",
+    "expected": {
+      "candidate_name": "Ravi Kumar",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "years_of_experience": 1,
+      "education": []
+    }
+  },
+  {
+    "text": "Meena Raj has 5 years of experience with Python, machine learning and scikit-learn. She earned a BTech degree.",
+    "expected": {
+      "candidate_name": "Meena Raj",
+      "skills": ["Python", "machine learning", "scikit-learn"],
+      "years_of_experience": 5,
+      "education": ["BTech"]
+    }
+  },
+  {
+    "text": "Karthik is a backend engineer with 4 years of experience using Java, SQL and REST APIs. He has a BE degree.",
+    "expected": {
+      "candidate_name": "Karthik",
+      "skills": ["Java", "SQL", "REST APIs"],
+      "years_of_experience": 4,
+      "education": ["BE"]
+    }
+  }
+]

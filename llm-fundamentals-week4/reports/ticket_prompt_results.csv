@@ -1,0 +1,31 @@
+﻿ticket,expected_category,expected_priority,prompt_version,predicted_category,predicted_priority,category_correct,priority_correct,status,error
+My payment was deducted twice,Billing,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My payment was deducted twice,Billing,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I need a refund for my failed transaction,Billing,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I need a refund for my failed transaction,Billing,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My invoice amount is incorrect,Billing,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My invoice amount is incorrect,Billing,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+Please explain my subscription charge,Billing,Low,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+Please explain my subscription charge,Billing,Low,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My payment receipt is missing,Billing,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My payment receipt is missing,Billing,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The application crashes when I log in,Technical,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The application crashes when I log in,Technical,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The dashboard is loading very slowly,Technical,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The dashboard is loading very slowly,Technical,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I receive an internal server error,Technical,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I receive an internal server error,Technical,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The export button does not work,Technical,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+The export button does not work,Technical,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I found a broken link on the website,Technical,Low,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I found a broken link on the website,Technical,Low,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I forgot my password,Account,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I forgot my password,Account,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+Please update my registered email,Account,Medium,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+Please update my registered email,Account,Medium,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My account has been locked,Account,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+My account has been locked,Account,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I want to change my profile name,Account,Low,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I want to change my profile name,Account,Low,few_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I cannot verify my account,Account,High,zero_shot,,,False,False,error,LLM request failed after retries: HTTPError
+I cannot verify my account,Account,High,few_shot,,,False,False,error,LLM request failed after retries: HTTPError

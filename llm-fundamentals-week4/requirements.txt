@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+tiktoken
+transformers
+torch
+scikit-learn
+python-dotenv
+fastapi
+uvicorn

@@ -1,0 +1,22 @@
+[
+  {
+    "resume_id": 1,
+    "error": "LLM request failed after retries: HTTPError"
+  },
+  {
+    "resume_id": 2,
+    "error": "LLM request failed after retries: HTTPError"
+  },
+  {
+    "resume_id": 3,
+    "error": "LLM request failed after retries: HTTPError"
+  },
+  {
+    "resume_id": 4,
+    "error": "LLM request failed after retries: HTTPError"
+  },
+  {
+    "resume_id": 5,
+    "error": "LLM request failed after retries: HTTPError"
+  }
+]

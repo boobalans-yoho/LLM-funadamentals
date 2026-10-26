@@ -1,0 +1,7 @@
+
+Classify the following customer support ticket.
+
+Ticket:
+{ticket}
+
+Return JSON with category and priority.

@@ -1,0 +1,16 @@
+﻿text,category,priority
+"My payment was deducted twice",Billing,High
+"I need a refund for my failed transaction",Billing,High
+"My invoice amount is incorrect",Billing,Medium
+"Please explain my subscription charge",Billing,Low
+"My payment receipt is missing",Billing,Medium
+"The application crashes when I log in",Technical,High
+"The dashboard is loading very slowly",Technical,Medium
+"I receive an internal server error",Technical,High
+"The export button does not work",Technical,Medium
+"I found a broken link on the website",Technical,Low
+"I forgot my password",Account,Medium
+"Please update my registered email",Account,Medium
+"My account has been locked",Account,High
+"I want to change my profile name",Account,Low
+"I cannot verify my account",Account,High
